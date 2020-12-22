@@ -1,1 +1,1 @@
-# GAN-proj
+# styleGAN-proj
