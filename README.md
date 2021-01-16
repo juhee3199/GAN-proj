@@ -1,4 +1,4 @@
-# styleGAN-project
+# game resource generator
 
 
 
